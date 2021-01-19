@@ -1,0 +1,19 @@
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	padding: 10px;
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+h1 {
+	width: 100%;
+	padding-left: 50px;
+}
